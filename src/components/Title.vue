@@ -15,5 +15,7 @@ export default {
 <style scoped lang="scss">
 h1{
   background-color: wheat;
+  margin: 0;
+  max-width: 1200px;
 }
 </style>
